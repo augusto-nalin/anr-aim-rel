@@ -1,4 +1,10 @@
 {
   "homepage": "https://github.com/augusto-nalin/anr-aim-rel/releases",
-  "promos": {}
+  "promos": {
+    "1.21.1-latest": "0.1.0",
+    "1.21.1-recommended": "0.1.0"
+  },
+  "1.21.1": {
+    "0.1.0": "- For Minecraft 1.21.1 (NeoForge); needs ANR's Trackpad & Touchpad Tweaks.\n- Aim assist: friction, magnetism or lock, with ballistic aim for bows and thrown items; close mobs in melee count as one target.\n- Off by default. Some servers see aim assist as cheating: use it where it's allowed."
+  }
 }
